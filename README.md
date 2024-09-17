@@ -1,7 +1,7 @@
 Advanced Data Management
 Final project for Advanced Data Management course at WGU
 
-2023-advanced-data-management.pdf is the file submitted for grading, and includes everything requested from the assignment instructions. rentals.sql is the actual code and includes items B through F from the assignment instructions.
+2023-advanced-data-management.pdf is the file submitted for grading, and includes everything requested from the assignment instructions.
 
 Assignment Instructions
 A. Summarize one real-world written business report that can be created from the DVD Dataset from the “Labs on Demand Assessment Environment and DVD Database” attachment.
